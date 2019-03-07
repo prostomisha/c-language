@@ -1,0 +1,1 @@
+This repository contains examples of my programs in C language.
